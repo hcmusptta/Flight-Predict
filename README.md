@@ -194,7 +194,4 @@ This project lays a strong foundation for flight delay prediction. Future work c
 *   **Model Deployment as API:** Expose the trained machine learning model as a RESTful API, allowing other applications to query and receive delay predictions.
 *   **Additional Features:** Incorporate more data sources such as airline operational data, air traffic control information, and historical maintenance records.
 *   **Advanced Modeling:** Explore deep learning architectures like LSTMs for time-series prediction or more complex ensemble methods.
-
-For any inquiries, please contact Nguyentatchien9564@gmail.com
-
 ---
